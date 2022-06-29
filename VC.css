@@ -1,0 +1,16 @@
+h1 {
+    font-size: 4em;
+    text-align: center;
+    color: #010b5b;
+} 
+body {
+  background-color: #E7FBFB;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+footer {
+  text-decoration-color: dodgerblue;
+}
